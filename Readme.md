@@ -17,3 +17,4 @@ To run any file use the make tool just do `make sno` where sno is the Serial Num
 |  1   | Fibonaci                  |
 |  2   | Maximize the cut segments |
 |  3   | Nth Catalan Number        |
+|  4   | Count Derangements        |
