@@ -6,4 +6,8 @@
 	g++ .\02.cpp -o .\02.exe
 	.\02.exe $(l) $(p) $(q) $(r)
 
-.PHONY: 1 2
+3:
+	g++ .\03.cpp -o .\03.exe
+	.\03.exe $(n)
+
+.PHONY: 1 2 3
